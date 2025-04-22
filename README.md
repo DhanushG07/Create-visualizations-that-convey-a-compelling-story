@@ -1,6 +1,5 @@
 # Elevate Labs Internship - Task 2: Superstore Sales & Profit Analysis
-
-This project is part of the Elevate Labs internship. The objective is to create interactive dashboards in Power BI using a Superstore Sales dataset.
+The objective is to create interactive dashboards in Power BI using a Superstore Sales dataset.
 
 ## 📊 Dataset Overview
 
