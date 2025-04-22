@@ -1,0 +1,101 @@
+OrderID,ProductName,Category,Region,City,Sales,Profit,Quantity,OrderDate,ShipDate
+1,Product 1,Technology,South,Houston,133.66,110.96,1,2021-11-28,2020-07-02
+2,Product 2,Furniture,South,New York,164.65,112.72,1,2021-06-23,2022-02-23
+3,Product 3,Technology,South,New York,459.42,131.11,4,2022-01-01,2022-09-10
+4,Product 4,Technology,Central,New York,342.57,147.96,9,2022-05-18,2020-03-09
+5,Product 5,Furniture,Central,New York,103.68,195.41,6,2020-02-10,2021-06-29
+6,Product 6,Furniture,Central,Chicago,140.59,108.1,3,2022-01-09,2020-02-22
+7,Product 7,Technology,East,New York,365.4,71.36,1,2021-05-16,2020-07-23
+8,Product 8,Office Supplies,South,Houston,102.02,161.09,4,2022-08-16,2020-05-05
+9,Product 9,Technology,Central,Phoenix,164.32,61.46,9,2022-07-17,2020-02-12
+10,Product 10,Technology,Central,New York,319.49,93.4,3,2021-04-05,2020-04-20
+11,Product 11,Technology,East,Chicago,376.76,24.91,9,2022-01-01,2022-01-30
+12,Product 12,Technology,Central,Chicago,360.78,14.82,7,2022-01-21,2022-04-27
+13,Product 13,Furniture,East,New York,189.71,192.9,4,2022-07-13,2020-04-04
+14,Product 14,Technology,West,Phoenix,384.87,168.84,3,2022-06-27,2022-06-18
+15,Product 15,Office Supplies,Central,New York,194.9,142.24,5,2021-01-24,2020-12-25
+16,Product 16,Furniture,West,Chicago,230.16,87.7,5,2022-06-01,2022-06-18
+17,Product 17,Office Supplies,East,Los Angeles,398.6,42.93,3,2020-09-12,2020-10-07
+18,Product 18,Office Supplies,South,Houston,359.85,39.72,9,2021-12-09,2021-10-28
+19,Product 19,Office Supplies,Central,Chicago,439.69,57.55,4,2021-03-25,2020-04-02
+20,Product 20,Office Supplies,East,New York,363.05,114.35,5,2020-01-10,2021-11-02
+21,Product 21,Furniture,South,Houston,327.32,145.77,4,2022-04-03,2020-03-01
+22,Product 22,Furniture,South,New York,137.47,135.44,5,2022-03-08,2021-09-25
+23,Product 23,Office Supplies,West,New York,247.09,63.19,7,2022-05-26,2022-12-10
+24,Product 24,Office Supplies,East,Los Angeles,206.08,191.42,9,2022-10-25,2022-10-25
+25,Product 25,Furniture,South,Houston,197.6,150.2,7,2022-10-12,2021-08-26
+26,Product 26,Furniture,Central,Houston,489.2,115.33,5,2021-01-08,2021-11-12
+27,Product 27,Furniture,Central,Los Angeles,257.24,126.23,7,2022-12-24,2021-06-17
+28,Product 28,Technology,West,Chicago,456.82,89.72,5,2020-05-25,2022-04-17
+29,Product 29,Technology,South,New York,352.46,57.07,3,2020-08-11,2021-10-06
+30,Product 30,Technology,East,Phoenix,417.92,77.63,7,2020-06-25,2020-08-20
+31,Product 31,Office Supplies,Central,New York,301.05,153.99,2,2022-05-02,2021-06-07
+32,Product 32,Technology,South,New York,330.76,12.73,9,2020-03-03,2020-12-11
+33,Product 33,Office Supplies,South,Chicago,297.01,32.05,1,2022-04-06,2022-12-05
+34,Product 34,Office Supplies,West,New York,178.1,18.74,6,2022-03-05,2021-06-29
+35,Product 35,Technology,Central,Los Angeles,388.98,17.74,7,2021-11-19,2022-03-04
+36,Product 36,Office Supplies,Central,Los Angeles,212.31,172.54,8,2020-04-14,2020-09-05
+37,Product 37,Technology,East,Houston,109.73,143.69,9,2021-05-25,2020-02-16
+38,Product 38,Technology,Central,Phoenix,358.19,100.09,2,2021-01-19,2020-08-01
+39,Product 39,Furniture,East,New York,170.84,28.59,2,2021-02-08,2020-08-26
+40,Product 40,Technology,Central,New York,476.18,103.41,5,2022-04-02,2022-12-15
+41,Product 41,Furniture,West,Chicago,481.57,99.96,5,2021-06-01,2020-12-15
+42,Product 42,Technology,Central,Los Angeles,465.95,42.91,6,2021-04-20,2020-04-16
+43,Product 43,Technology,East,Phoenix,248.06,92.43,3,2021-12-09,2022-04-10
+44,Product 44,Furniture,East,Houston,106.18,85.72,8,2022-02-09,2020-02-17
+45,Product 45,Furniture,West,Los Angeles,471.33,127.01,1,2022-11-12,2020-12-02
+46,Product 46,Technology,Central,Houston,271.27,130.67,6,2022-09-23,2022-11-15
+47,Product 47,Office Supplies,Central,Chicago,486.66,18.61,4,2021-11-07,2022-03-14
+48,Product 48,Furniture,West,Chicago,485.45,81.18,1,2021-12-14,2020-01-08
+49,Product 49,Office Supplies,Central,New York,441.2,128.91,7,2020-03-23,2021-09-16
+50,Product 50,Office Supplies,Central,Phoenix,217.78,105.6,9,2021-04-01,2021-12-19
+51,Product 51,Office Supplies,East,Houston,254.04,172.73,4,2020-01-01,2020-10-29
+52,Product 52,Furniture,Central,Los Angeles,440.45,135.15,4,2020-02-20,2021-09-30
+53,Product 53,Office Supplies,Central,Chicago,226.77,40.96,6,2021-11-15,2020-02-25
+54,Product 54,Furniture,West,New York,167.8,23.41,3,2021-12-17,2021-12-26
+55,Product 55,Office Supplies,West,New York,322.72,132.06,6,2021-03-24,2021-06-09
+56,Product 56,Technology,South,Houston,474.46,15.04,7,2022-05-30,2021-04-18
+57,Product 57,Technology,East,Chicago,378.41,121.3,3,2021-05-02,2020-01-28
+58,Product 58,Furniture,Central,Phoenix,328.02,188.64,7,2020-02-03,2020-03-18
+59,Product 59,Technology,Central,Chicago,138.87,119.34,3,2020-04-04,2020-12-30
+60,Product 60,Technology,South,Houston,346.0,83.75,2,2022-12-31,2021-10-27
+61,Product 61,Office Supplies,Central,Houston,496.02,132.22,4,2020-06-02,2021-06-09
+62,Product 62,Furniture,East,Chicago,156.03,97.07,8,2020-09-06,2021-11-29
+63,Product 63,Office Supplies,South,Houston,307.33,113.67,9,2021-11-04,2022-06-01
+64,Product 64,Office Supplies,East,Chicago,450.95,188.88,7,2021-03-13,2022-10-27
+65,Product 65,Office Supplies,South,Los Angeles,396.31,83.36,1,2020-04-27,2022-10-23
+66,Product 66,Office Supplies,South,Chicago,378.81,192.63,3,2022-02-09,2022-07-07
+67,Product 67,Office Supplies,West,Chicago,380.99,182.02,9,2020-09-24,2022-01-19
+68,Product 68,Office Supplies,East,Houston,243.8,47.2,1,2022-12-13,2020-12-28
+69,Product 69,Office Supplies,Central,Houston,217.44,23.18,9,2020-08-23,2022-03-16
+70,Product 70,Furniture,Central,New York,423.74,29.15,8,2021-01-23,2022-01-08
+71,Product 71,Technology,East,New York,424.05,13.46,1,2022-09-16,2022-11-04
+72,Product 72,Office Supplies,Central,Los Angeles,446.83,27.94,6,2022-02-01,2021-04-29
+73,Product 73,Office Supplies,Central,New York,465.3,139.77,5,2021-02-04,2020-01-28
+74,Product 74,Office Supplies,East,Chicago,304.54,23.53,6,2021-09-15,2021-12-14
+75,Product 75,Office Supplies,South,Houston,300.61,70.61,5,2022-02-05,2022-11-28
+76,Product 76,Office Supplies,East,New York,419.32,170.53,6,2022-07-07,2020-03-26
+77,Product 77,Office Supplies,South,New York,359.99,14.42,5,2022-05-02,2020-05-05
+78,Product 78,Technology,Central,Los Angeles,380.79,164.75,5,2021-07-31,2022-03-22
+79,Product 79,Technology,Central,Los Angeles,418.32,63.55,4,2020-03-15,2021-06-20
+80,Product 80,Office Supplies,Central,Chicago,456.0,32.45,3,2021-03-10,2020-05-24
+81,Product 81,Technology,West,Houston,235.2,142.38,3,2020-04-12,2020-01-25
+82,Product 82,Furniture,South,Los Angeles,250.23,129.5,4,2022-02-02,2020-03-07
+83,Product 83,Office Supplies,West,New York,137.59,176.72,9,2022-01-07,2020-08-20
+84,Product 84,Furniture,West,Houston,331.31,149.66,2,2022-03-16,2020-04-18
+85,Product 85,Furniture,East,Houston,114.38,162.66,9,2020-04-07,2020-04-20
+86,Product 86,Office Supplies,West,New York,286.24,63.59,1,2022-03-08,2020-08-15
+87,Product 87,Technology,East,Los Angeles,317.06,43.71,1,2022-05-08,2020-04-20
+88,Product 88,Furniture,East,New York,214.62,152.62,5,2021-03-10,2020-02-03
+89,Product 89,Office Supplies,West,Houston,336.33,163.3,6,2021-03-22,2021-09-14
+90,Product 90,Furniture,South,Phoenix,112.2,198.2,6,2020-09-05,2022-01-17
+91,Product 91,Furniture,South,Phoenix,114.94,88.4,3,2020-06-14,2021-08-17
+92,Product 92,Furniture,South,Chicago,429.04,80.68,7,2022-09-10,2021-02-28
+93,Product 93,Furniture,South,New York,244.08,157.52,9,2022-10-16,2021-09-04
+94,Product 94,Technology,South,New York,150.82,74.75,8,2021-06-25,2021-11-22
+95,Product 95,Furniture,West,Chicago,308.9,186.84,6,2022-01-28,2020-11-10
+96,Product 96,Furniture,West,Chicago,408.0,173.1,8,2020-03-21,2022-05-26
+97,Product 97,Furniture,Central,Chicago,186.33,91.51,5,2020-05-12,2021-10-23
+98,Product 98,Technology,South,Houston,349.16,152.67,8,2022-03-07,2020-10-03
+99,Product 99,Furniture,West,New York,134.14,153.36,4,2022-06-18,2021-09-15
+100,Product 100,Furniture,Central,Houston,120.67,29.59,8,2020-05-17,2021-05-30
